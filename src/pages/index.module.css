@@ -1,4 +1,13 @@
 .message{
-    width: 50%; height: 200px; margin: auto;
-    background-color: rgba(0, 136, 177, 0.445); font-size: 60px; color: rgb(255, 51, 0); text-align: center; margin-top: 15%; border-radius: 15px;  line-height: 200px; outline-color: khaki; outline-style: double;
+        width: 50%; 
+        height: 200px;
+        margin: auto;
+        background-color: #FF9F40;
+        background: -webkit-linear-gradient(top, #e2e2e2 0%,#FF9F40 50%,#FF9F40 51%,#fefefe 100%);
+        font-size: 60px; color: #4867D6;
+        text-align: center;
+        margin-top: 15%;
+        border: 5px inset #64DF85; 
+        line-height: 200px; 
+        border-radius: 10px; 
 }

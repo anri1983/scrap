@@ -7,7 +7,7 @@ function AboutPage () {
   return (
     <Layout pageTitle='About Me'>
       <p>
-        Hi there! I'm in love with Scrapbooking, Cardmaking, Drawing, Crochet.
+        Hi there! My name is Marina, I'm in love with Scrapbooking, Cardmaking, Drawing, Crochet.
       </p>
       <StaticImage alt = "Scrapbooking"
   src = "../images/photo_2021-02-02_10-52-54.jpg"/>

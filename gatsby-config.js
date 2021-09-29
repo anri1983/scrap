@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
-    title: "scrapbooking-insight",
+    title: "scrapbooking inside",
   },
   plugins: ["gatsby-plugin-gatsby-cloud",
             "gatsby-plugin-image",
@@ -14,5 +14,6 @@ module.exports = {
               }
             },
             "gatsby-plugin-mdx",
+            "gatsby-transformer-sharp",
   ],
 };
